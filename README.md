@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rohan%20Bommella&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20Full-Stack%20%26%20Systems%20Builder&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rohan%20Bommella&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20and%20Full-Stack%20Developer&descAlignY=55&descSize=18)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+IIT+Tirupati;Full-Stack+Developer;Building+Systems+that+Scale;300%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
@@ -71,20 +71,10 @@ I'm a Computer Science undergraduate at **IIT Tirupati**, focused on building fu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohan-331&show_icons=true&theme=radical&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D0221&border_color=6D28D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-331&theme=radical&hide_border=true&background=0D0221&stroke=6D28D9&ring=8B5CF6&fire=A78BFA" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rohan-331&show_icons=true&theme=radical&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D0221&border_color=6D28D9&cache_seconds=86400" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=rohan-331&theme=radical&hide_border=true&background=0D0221&stroke=6D28D9&ring=8B5CF6&fire=A78BFA" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-331&layout=compact&theme=radical&title_color=A78BFA&text_color=C4B5FD&bg_color=0D0221&border_color=6D28D9" width="48%" />
-
-</div>
-
----
-
-### 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rohan-331&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-331&layout=compact&theme=radical&title_color=A78BFA&text_color=C4B5FD&bg_color=0D0221&border_color=6D28D9&cache_seconds=86400" width="48%" />
 
 </div>
 
@@ -100,15 +90,6 @@ I'm a Computer Science undergraduate at **IIT Tirupati**, focused on building fu
 
 ---
 
-### 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rohan-331/rohan-331/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
 
 ### 🟣 Current Focus
 
